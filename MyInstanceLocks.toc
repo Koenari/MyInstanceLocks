@@ -1,0 +1,14 @@
+## Interface: 80300
+## X-Min-Interface: 80000
+## Title: My Instance Locks
+## Version: 8.3.0-1
+## Notes: Prints all your instance locks for you or your party (alternative to PsyKzz's InstaceLocks)
+## Author: Koenari
+## X-Curse-Project-ID: 392078
+## SavedVariablesPerCharacter: milDefaultCommand, milDefaultInstanceType, milDefaultAddon
+
+
+MyInstanceLocks.lua
+MyInstanceLocksDB.lua
+MyInstanceLocksOptions.xml
+MyInstanceLocksOptions.lua
